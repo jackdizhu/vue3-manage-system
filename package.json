@@ -14,6 +14,7 @@
 		"axios": "^1.6.3",
 		"countup.js": "^2.8.0",
 		"echarts": "^5.5.0",
+		"zrender": "5.5.0",
 		"echarts-wordcloud": "^2.1.0",
 		"element-plus": "^2.6.3",
 		"md-editor-v3": "^2.11.2",
