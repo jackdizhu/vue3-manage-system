@@ -159,6 +159,13 @@ export const menuData: Menus[] = [
                 index: '/echarts',
                 title: 'echarts图表',
             },
+            // 添加zrender自定义图表
+            {
+                id: '43',
+                pid: '4',
+                index: '/zrender',
+                title: 'zrender图表',
+            },
         ],
     },
     {

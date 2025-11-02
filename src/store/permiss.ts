@@ -36,6 +36,7 @@ export const usePermissStore = defineStore('permiss', {
                     '4',
                     '41',
                     '42',
+                    '43', // Added '43' for zrender permission
                     '5',
                     '7',
                     '6',

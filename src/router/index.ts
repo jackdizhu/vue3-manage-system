@@ -86,6 +86,15 @@ const routes: RouteRecordRaw[] = [
                 },
                 component: () => import(/* webpackChunkName: "echarts" */ '../views/chart/echarts.vue'),
             },
+            {
+                path: '/zrender',
+                name: 'zrender',
+                meta: {
+                    title: 'zrender图表',
+                    permiss: '43',
+                },
+                component: () => import(/* webpackChunkName: "zrender" */ '../views/zrender-page/zrender.vue'),
+            },
 
             {
                 path: '/icon',
